@@ -1,0 +1,1 @@
+./gradlew compileFalconReleaseSources -PEXTERNAL_URL=hhhh -PEXTERNAL_ENV=dev -PEXTERNAL_STORE_FILE=C\:\\Users\\Tu\\.android\\key\\release.jks -PEXTERNAL_STORE_PASSWORD=123456789 -PEXTERNAL_KEY_ALIAS=release -PEXTERNAL_KEY_PASSWORD=123456789 --stacktrace 
